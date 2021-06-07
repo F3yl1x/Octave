@@ -1,0 +1,1 @@
+pkg load control;pkg load signal;pkg load symbolic;close all;clear -v;sound = audioread("Test.ogg")
